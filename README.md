@@ -21,7 +21,7 @@
 
 | Project | Tools |
 |---|---|
-| 💼 Sales Performance Dashboard | Power BI · DAX · SQL |
+| 💼 Sales Performance Dashboard | Power BI · SQL |
 
 ---
 
