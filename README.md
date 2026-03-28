@@ -2,7 +2,7 @@
 
 🌍 Geophysicist & aspiring Data Analyst | South Africa 🇿🇦
 
-> *Turning complex earth science and business data into clear, actionable insights.*
+> *Turning  business data into clear, actionable insights. this data wa sourced from(https://absentdata.com/data-analysis/end-to-end-data-analysis-project/)*
 
 ---
 
